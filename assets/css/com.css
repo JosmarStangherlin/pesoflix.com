@@ -248,7 +248,7 @@ tr {
       z-index: 1; 
       padding: 0 15px; 
       white-space: normal; 
-      font-size: 55px;
+      font-size: 40px;
       color: #ffffff; 
       font-family: Oswald; 
       font-weight: bold; 
@@ -265,7 +265,7 @@ tr {
       position: relative;
       z-index: 1; 
       margin: .2em 0 -.5em; 
-      font-size: 27px; 
+      font-size: 17px; 
       color: #FFFF00; 
       font-family: Cabin; 
       font-weight: bold; 
